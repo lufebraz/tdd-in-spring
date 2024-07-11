@@ -1,0 +1,67 @@
+{
+  "post": [
+    [
+      {
+        "userid": 1,
+        "id": 1,
+        "title": "UN Responds to Hurricane Beryl",
+        "body": "The United Nations has announced a regional response plan to support communities in the Caribbean islands affected by Hurricane Beryl, which caused extensive damage last week."
+      },
+      {
+        "userid": 1,
+        "id": 2,
+        "title": "WHO Prequalifies Hepatitis C Self-Test Kit",
+        "body": "The World Health Organization has prequalified the first self-test kit for the hepatitis C virus, marking a significant step towards eliminating the infection."
+      },
+      {
+        "userid": 2,
+        "id": 3,
+        "title": "Astronomers Discover Flying Fox in Hydra Galaxy",
+        "body": "Astronomers have discovered a cloud of magnetized plasma, named the Flying Fox, in the Hydra galaxy cluster, challenging existing astronomical classifications."
+      },
+      {
+        "userid": 2,
+        "id": 4,
+        "title": "Flooding in Lagos",
+        "body": "The Lagos State Commissioner has apologized to residents for the recent flooding, attributing it to nature taking its course."
+      },
+      {
+        "userid": 3,
+        "id": 5,
+        "title": "Digital Boom Could Harm Environment",
+        "body": "The UN trade agency warns that the rapid growth in digital technology could have significant environmental impacts, including high energy consumption for data mining."
+      },
+      {
+        "userid": 3,
+        "id": 6,
+        "title": "Revolutionizing Brain Recovery",
+        "body": "Researchers are exploring the transformative power of LK-2 in stroke treatment, which could revolutionize brain recovery processes."
+      },
+      {
+        "userid": 4,
+        "id": 7,
+        "title": "Nigerian Police Save 19-Year-Old",
+        "body": "Police in Nigeria have saved a 19-year-old woman who attempted suicide after her lover rejected her pregnancy."
+      },
+      {
+        "userid": 4,
+        "id": 8,
+        "title": "NASA’s Orion Spacecraft Endures Space Simulation",
+        "body": "NASA's Orion spacecraft has successfully endured an ultimate space simulation, marking a key milestone in space exploration technology."
+      },
+      {
+        "userid": 5,
+        "id": 9,
+        "title": "Paris 2024 Olympics Preparations",
+        "body": "The preparations for the Paris 2024 Olympics are in full swing, with a unique opening ceremony planned to take place on the Seine River, featuring thousands of athletes parading on boats along the river."
+      },
+      {
+        "userid": 5,
+        "id": 10,
+        "title": "Concerts and Cultural Events in Paris",
+        "body": "Paris is hosting a series of concerts and cultural events throughout July 2024, including classical music by candlelight at historical venues and performances by artists like Diana Krall."
+      }
+    ]
+
+  ]
+}
